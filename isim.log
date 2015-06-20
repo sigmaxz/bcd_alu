@@ -1,0 +1,12 @@
+ISim log file
+Running: /home/csmajs/svill017/BCD_alu/my_alu_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb /home/csmajs/svill017/BCD_alu/my_alu_tb_isim_beh.wdb 
+ISim P.68d (signature 0xfbc00daa)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+at 580 ns, Instance /my_alu_tb/ : Warning: Test_12: result incorrect
+# exit 0
